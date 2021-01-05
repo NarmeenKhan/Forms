@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(5, 5, 56);
+    font-family: sans-serif;
+}
+.form-bg{
+    text-align: center;
+    display: block;
+    width: 400px;
+    margin: auto;
+    background-color: cornsilk;
+    padding: 20px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px 0px;
+}
+.checkbox {
+    width: unset;
+}
+button{
+    background-color: rgb(50, 168, 50);
+    width: 390px;
+    padding: 15px;
+    color: white;
+}
+.row .hr1 hr{
+    width: 140px;
+}
+.row .hr2 hr{
+    width: 140px;
+}
+.row{
+    display: flex;
+    margin: 35px;
+    gap: 10px;
+    text-transform: capitalize;
+}
+
+  p1{
+      color: white;
+  }
+
